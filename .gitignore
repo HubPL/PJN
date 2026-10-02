@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+*.icloud
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Sekrety
+.env
+
+# Edytory
+.vscode/
+.idea/
